@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kium/static/css/main.18f48107.chunk.css",
-    "main.js": "/kium/static/js/main.3aed52b4.chunk.js",
-    "main.js.map": "/kium/static/js/main.3aed52b4.chunk.js.map",
+    "main.css": "/kium/static/css/main.68def092.chunk.css",
+    "main.js": "/kium/static/js/main.0f1e84d2.chunk.js",
+    "main.js.map": "/kium/static/js/main.0f1e84d2.chunk.js.map",
     "runtime-main.js": "/kium/static/js/runtime-main.58837d03.js",
     "runtime-main.js.map": "/kium/static/js/runtime-main.58837d03.js.map",
-    "static/js/2.672275d0.chunk.js": "/kium/static/js/2.672275d0.chunk.js",
-    "static/js/2.672275d0.chunk.js.map": "/kium/static/js/2.672275d0.chunk.js.map",
+    "static/js/2.4b125c59.chunk.js": "/kium/static/js/2.4b125c59.chunk.js",
+    "static/js/2.4b125c59.chunk.js.map": "/kium/static/js/2.4b125c59.chunk.js.map",
     "index.html": "/kium/index.html",
-    "precache-manifest.9e619a27c2137f2a40f88e983ad683a4.js": "/kium/precache-manifest.9e619a27c2137f2a40f88e983ad683a4.js",
+    "precache-manifest.aaced07c24cf826fa05c36d2e0b11b2b.js": "/kium/precache-manifest.aaced07c24cf826fa05c36d2e0b11b2b.js",
     "service-worker.js": "/kium/service-worker.js",
-    "static/css/main.18f48107.chunk.css.map": "/kium/static/css/main.18f48107.chunk.css.map",
-    "static/js/2.672275d0.chunk.js.LICENSE.txt": "/kium/static/js/2.672275d0.chunk.js.LICENSE.txt"
+    "static/css/main.68def092.chunk.css.map": "/kium/static/css/main.68def092.chunk.css.map",
+    "static/js/2.4b125c59.chunk.js.LICENSE.txt": "/kium/static/js/2.4b125c59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58837d03.js",
-    "static/js/2.672275d0.chunk.js",
-    "static/css/main.18f48107.chunk.css",
-    "static/js/main.3aed52b4.chunk.js"
+    "static/js/2.4b125c59.chunk.js",
+    "static/css/main.68def092.chunk.css",
+    "static/js/main.0f1e84d2.chunk.js"
   ]
 }
